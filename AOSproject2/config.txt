@@ -1,0 +1,4 @@
+1 net01.utdallas.edu 56789 2,3 5
+2 net02.utdallas.edu 56789 1,3,4 10
+3 net03.utdallas.edu 56789 1,2,4 15
+4 net04.utdallas.edu 56789 2,3 20
